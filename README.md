@@ -4,7 +4,7 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-![earthquakes](https://github.com/jennykardashov/leaflet-challenge/blob/main/Earthquakes.png)
+![earthquakes]([https://github.com/jennykardashov/leaflet-challenge/blob/main/Earthquakes.png](https://github.com/jennykardashov/leaflet-challenge/blob/main/Leaflet-Part-1/Images/Earthquakes.png))
 
 1. Get your dataset. To do so, follow these steps:
 
